@@ -1,0 +1,11 @@
+{
+	"files": {
+		"README.md": "80136809a7319cae56bb437d9bc172ce63e4c7a2ce929d70764fae552d6fe655",
+		"index.js": "73c48fe3c126ee1f059808fac974e084f79be8f7657c49ac1d2b9516811551d8"
+	},
+	"defs": {
+		"S_CHAT": 3,
+		"S_PARTY_MEMBER_LIST": 7,
+		"S_WHISPER": 3
+	}
+}
